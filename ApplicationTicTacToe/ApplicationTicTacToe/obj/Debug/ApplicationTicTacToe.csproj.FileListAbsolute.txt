@@ -1,0 +1,10 @@
+C:\Users\CSI Connect\source\repos\ApplicationTicTacToe\ApplicationTicTacToe\bin\Debug\ApplicationTicTacToe.exe.config
+C:\Users\CSI Connect\source\repos\ApplicationTicTacToe\ApplicationTicTacToe\bin\Debug\ApplicationTicTacToe.exe
+C:\Users\CSI Connect\source\repos\ApplicationTicTacToe\ApplicationTicTacToe\bin\Debug\ApplicationTicTacToe.pdb
+C:\Users\CSI Connect\source\repos\ApplicationTicTacToe\ApplicationTicTacToe\obj\Debug\ApplicationTicTacToe.csproj.AssemblyReference.cache
+C:\Users\CSI Connect\source\repos\ApplicationTicTacToe\ApplicationTicTacToe\obj\Debug\ApplicationTicTacToe.Form1.resources
+C:\Users\CSI Connect\source\repos\ApplicationTicTacToe\ApplicationTicTacToe\obj\Debug\ApplicationTicTacToe.Properties.Resources.resources
+C:\Users\CSI Connect\source\repos\ApplicationTicTacToe\ApplicationTicTacToe\obj\Debug\ApplicationTicTacToe.csproj.GenerateResource.cache
+C:\Users\CSI Connect\source\repos\ApplicationTicTacToe\ApplicationTicTacToe\obj\Debug\ApplicationTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\CSI Connect\source\repos\ApplicationTicTacToe\ApplicationTicTacToe\obj\Debug\ApplicationTicTacToe.exe
+C:\Users\CSI Connect\source\repos\ApplicationTicTacToe\ApplicationTicTacToe\obj\Debug\ApplicationTicTacToe.pdb
